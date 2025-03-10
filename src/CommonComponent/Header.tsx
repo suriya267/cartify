@@ -10,7 +10,7 @@ export default function Header() {
         <div className="col-span-2 font-[Inter-bold] text-[35px] text-sky-700 mx-2">
           <img
             className="h-[50px]"
-            src="./src/assets/images/AppLogo.png"
+            src="./src/assets/AppLogo.png"
             alt="App Logo"
           />
         </div>
