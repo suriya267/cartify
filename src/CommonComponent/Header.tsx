@@ -8,11 +8,12 @@ export default function Header() {
     <div className="p-2 ">
       <div className="grid grid-cols-8">
         <div className="col-span-2 font-[Inter-bold] text-[35px] text-sky-700 mx-2">
-          <img
+          {/* <img
             className="h-[50px]"
             src="./src/assets/AppLogo.png"
             alt="App Logo"
-          />
+          /> */}
+          Cartify
         </div>
         <div className="col-span-4 flex items-center">
           <SearchBar />
