@@ -1,8 +1,7 @@
-import { useState } from "react";
 import SearchBar from "./SearchBar";
 import "./Header.css";
-import Cart from "./cart";
 import { UserOutlined } from "@ant-design/icons";
+import Cart from "./Cart";
 
 export default function Header() {
   return (
